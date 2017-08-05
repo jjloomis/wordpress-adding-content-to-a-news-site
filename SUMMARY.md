@@ -1,0 +1,36 @@
+# Summary
+
+* [Introduction](README.md)
+
+## Accessing the News Site
+
+* [Accessing the News Site](accessing-the-news-site/accessing-the-news-site.md)
+* Logging into the Site
+* Resetting Your Password
+* Switching from Dashboard to Live Site
+
+## Working with Text and Links
+
+* [Creating a Post](working-with-text-and-links/creating-a-post.md)
+* Adding Categories and Tags
+* Working with Content in the Visual Editor
+* Working with Content in the Text Editor
+* Formatting Text
+* Creating a Link
+* Editing a Link
+* Adding a Featured Image
+* [Editing a URL](working-with-text-and-links/editing-a-url.md)
+
+## Working with Media
+
+* Adding an Image to a Post
+* Adding a Caption and Alt Text to an Image
+* Deleting an Image
+* Adding an MP3 to a Post
+* Deleting an MP3
+* Adding a Video to a Post
+* Adding a PDF to a Post
+* Deleting a PDF
+* Adding a Horizontal Rule
+* Deleting a Horizontal Rule
+
