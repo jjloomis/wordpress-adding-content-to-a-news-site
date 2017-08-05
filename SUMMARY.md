@@ -5,7 +5,7 @@
 ## Accessing the News Site
 
 * [Accessing the News Site](accessing-the-news-site/accessing-the-news-site.md)
-* Logging into the Site
+* [Logging into the Site](accessing-the-news-site/logging-into-the-site.md)
 * Resetting Your Password
 * Switching from Dashboard to Live Site
 
