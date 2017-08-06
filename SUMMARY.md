@@ -24,7 +24,7 @@
 ## Working with Media
 
 * [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
-* Adding a Caption and Alt Text to an Image
+* [Adding a Caption and Alt Text to an Image](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
 * Deleting an Image
 * Adding an MP3 to a Post
 * Deleting an MP3
