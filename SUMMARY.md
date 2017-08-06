@@ -14,7 +14,7 @@
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
 * [Adding Categories and Tags](working-with-text-and-links/adding-categories-and-tags.md)
 * [Working with Content in the Visual Editor](working-with-text-and-links/working-with-content-in-the-visual-editor.md)
-* Working with Content in the Text Editor
+* [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
 * Formatting Text
 * Creating a Link
 * Editing a Link
