@@ -17,7 +17,7 @@
 * [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
 * Formatting Text
 * [Creating a Link](working-with-text-and-links/creating-a-link.md)
-* Editing a Link
+* [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * Adding a Featured Image
 * [Editing a URL](working-with-text-and-links/editing-a-url.md)
 
