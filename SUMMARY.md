@@ -34,3 +34,7 @@
 * Adding a Horizontal Rule
 * Deleting a Horizontal Rule
 
+## Administrator Actions
+
+## Troubleshooting
+
