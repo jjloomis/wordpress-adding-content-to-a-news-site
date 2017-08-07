@@ -31,6 +31,7 @@
 * [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
 * [Deleting an MP3](working-with-media/deleting-an-mp3.md)
 * [Adding a Video to a Post](working-with-media/adding-a-video-to-a-post.md)
+* [Deleting a Video](working-with-media/deleting-a-video.md)
 * [Adding a PDF to a Post](working-with-media/adding-a-pdf-to-a-post.md)
 * [Deleting a PDF](working-with-media/deleting-a-pdf.md)
 * Adding a Horizontal Rule
