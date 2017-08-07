@@ -29,7 +29,7 @@
 * [Adding a Caption and Alt Text to an Image](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
 * [Deleting an Image](working-with-media/deleting-an-image.md)
 * [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
-* Deleting an MP3
+* [Deleting an MP3](working-with-media/deleting-an-mp3.md)
 * Adding a Video to a Post
 * Adding a PDF to a Post
 * Deleting a PDF
