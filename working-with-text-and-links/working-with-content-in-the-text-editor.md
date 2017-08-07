@@ -2,7 +2,7 @@
 
 The Text editor is text-only editor similar to [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/ "Atom text editor").
 
-Use the Text editor when adding code to a Post.
+Use the Text editor when adding code to a post.
 
 1. When working with a Post, select the the Text tab.
 2. To add code, click within the editor and type \(or paste\) your code. 
