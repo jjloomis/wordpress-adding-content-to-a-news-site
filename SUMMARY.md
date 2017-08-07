@@ -15,7 +15,7 @@
 * [Adding Categories and Tags](working-with-text-and-links/adding-categories-and-tags.md)
 * [Working with Content in the Visual Editor](working-with-text-and-links/working-with-content-in-the-visual-editor.md)
 * [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
-* Formatting Text
+* [Formatting Text](working-with-text-and-links/formatting-text.md)
 * [Creating a Link](working-with-text-and-links/creating-a-link.md)
 * [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Adding a Featured Image](working-with-text-and-links/adding-a-featured-image.md)
@@ -26,7 +26,7 @@
 * [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
 * [Adding a Caption and Alt Text to an Image](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
 * [Deleting an Image](working-with-media/deleting-an-image.md)
-* Adding an MP3 to a Post
+* [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
 * Deleting an MP3
 * Adding a Video to a Post
 * Adding a PDF to a Post
