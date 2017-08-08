@@ -1,5 +1,7 @@
 # Adding a PDF to a Post
 
+**Note**: Before uploading your PDF, give it a relevant name following JAMS file and folder naming conventions.
+
 1. In the Visual editor, position the cursor where you would like the PDF to appear. 
 2. Click the **Add Media** button.
 3. In the Insert Media window, make sure the Upload Files tab is selected.

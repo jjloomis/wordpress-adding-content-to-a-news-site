@@ -1,6 +1,6 @@
 # Adding an MP3 to a Post
 
-1. If necessary, export your project as an MP3 in Adobe Audition. **Note**: Give your MP3 a relevant name following JAMS file and folder naming conventions.
+1. If necessary, export your project as an MP3 in Adobe Audition. **Note**: Before uploading your MP3, give it a relevant name following JAMS file and folder naming conventions.
 2. In the Visual editor, position the cursor where you would like the MP3 to appear. 
 2. Click the **Add Media** button.
 3. In the Insert Media window, make sure the Upload Files tab is selected.
