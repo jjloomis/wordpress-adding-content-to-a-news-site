@@ -17,7 +17,6 @@
 * [Adding Categories and Tags](working-with-text-and-links/adding-categories-and-tags.md)
 * [Working with Content in the Visual Editor](working-with-text-and-links/working-with-content-in-the-visual-editor.md)
 * [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
-* [Formatting Text](working-with-text-and-links/formatting-text.md)
 * [Creating a Link](working-with-text-and-links/creating-a-link.md)
 * [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Adding a Featured Image](working-with-text-and-links/adding-a-featured-image.md)
