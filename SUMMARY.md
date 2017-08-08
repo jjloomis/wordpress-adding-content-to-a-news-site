@@ -27,6 +27,7 @@
 
 * [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
 * [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
+* [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
 * [Adding a Caption and Alt Text to an Image](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
 * [Deleting an Image](working-with-media/deleting-an-image.md)
 * [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
@@ -36,7 +37,7 @@
 * [Adding a PDF to a Post](working-with-media/adding-a-pdf-to-a-post.md)
 * [Deleting a PDF](working-with-media/deleting-a-pdf.md)
 * Adding a Horizontal Rule
-* Wrapping Text Around an Image
+* Changing the Size of an Image
 
 ## Administrator Actions
 
