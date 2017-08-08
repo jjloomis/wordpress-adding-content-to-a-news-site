@@ -1,8 +1,8 @@
 # Adding an Image to a Post
 
-Note: Always add all of the text to a post before adding an image. 
+Note: Always add all of the text to a post before adding images. 
 
-Never attempt to align or reposition an image using the Visual editor toolbar or Tab/ spacebar keys on your keyboard (clicking and dragging the image won't work either.) Use the image formatting toolbar to wrap text around the image or change its size.  
+Never attempt to align or reposition an image using the Visual editor toolbar or **Tab**/ **spacebar** keys on your keyboard (clicking and dragging the image won't work either.) Use the image formatting toolbar to wrap text around the image or change its size.  
 
 1. In the Visual editor, position the cursor where you would like the image to appear. 
 2. Click the Add Media button.
