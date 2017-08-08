@@ -1,4 +1,4 @@
-# Creating a link
+# Creating a Link
 
 1. Make sure the Visual editor is active.
 2. Open a new broswer tab and go to the webpage you want to use in your link. \(You can also create links to other posts in the site.\)
@@ -9,3 +9,6 @@
 7. Click the **Apply** button.
 8. Click **Submit for Review**.
 9. Click **View Post** and make sure the link is working correctly. If it is not working correctly, you'll need to edit the link.
+
+
+
