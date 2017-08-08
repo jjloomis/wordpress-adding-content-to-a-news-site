@@ -37,6 +37,7 @@
 * [Adding a PDF to a Post](working-with-media/adding-a-pdf-to-a-post.md)
 * [Deleting a PDF](working-with-media/deleting-a-pdf.md)
 * [Adding a Horizontal Line](working-with-media/adding-a-horizontal-rule.md)
+* [Deleting a Horizontal Line](working-with-media/deleting-a-horizontal-line.md)
 
 ## Administrator Actions
 
