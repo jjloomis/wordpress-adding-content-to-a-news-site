@@ -2,7 +2,7 @@
 
 If necessary, export your Adobe Audition project as an MP3. 
 
-**Note**: Before uploading your MP3, give it a relevant name following JAMS file and folder naming conventions.
+**Note**: Before uploading an MP3, give it a relevant name following JAMS file and folder naming conventions.
 
 1. In the Visual editor, position the cursor where you would like the MP3 to appear. 
 2. Click the **Add Media** button.
