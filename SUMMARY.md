@@ -41,6 +41,7 @@
 ## Administrator Actions
 
 * [Publishing a Pending Post](administrator-actions/publishing-a-pending-post.md)
+* [Adding Users](administrator-actions/adding-users.md)
 
 ## Troubleshooting
 
