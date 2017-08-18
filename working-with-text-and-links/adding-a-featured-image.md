@@ -6,7 +6,7 @@ Note: A featured images must be a landscape-oriented image.
 
 1. In your post, scroll down to the Featured Image area \(on right.\)
 2. Click **Set featured image**. 
-3. In the Featured Image dialog box, use the Upload tab to navigate to and select an image on your computer. Or, use the Media Library tab to select an image that was previously added to the site.
+3. In the Featured Image box, use the Upload tab to navigate to and select an image on your computer. Or, use the Media Library tab to select an image that was previously added to the site.
 4. Click **Set featured image**.
 5. When finished, click **Submit for Review**.
 
