@@ -1,6 +1,6 @@
 # Creating a Link
 
-1. Make sure the Visual editor is active.
+1. Make sure the [Visual editor](/working-with-text-and-links/working-with-content-in-the-visual-editor.md) is active.
 2. Open a new broswer tab and go to the webpage you want to use in your link. \(You can also create links to other posts in the site.\)
 3. Copy the full URL of the webpage.
 4. In the the Visual editor, select the text you would like to make into a link.
