@@ -20,7 +20,7 @@
 * [Creating a Link](working-with-text-and-links/creating-a-link.md)
 * [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Adding a Featured Image](working-with-text-and-links/adding-a-featured-image.md)
-* [Editing a URL](working-with-text-and-links/editing-a-url.md)
+* [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 
 ## Working with Media
 
