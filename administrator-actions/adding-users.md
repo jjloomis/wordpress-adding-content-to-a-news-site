@@ -4,9 +4,9 @@
 
 Always give users the lowest level role they need. If you're unsure about what role a user should have, stick with Subscriber or Contributer. You can always give them a higher level role later.
 
-Never give an Author or Editor role to a user until they have proven themselves trustworthy in lower level roles.
+Don't give an Author or Editor role to a user until they've proven themselves trustworthy in lower level roles.
 
-The Administrator role should be given to as few users as possible. Only give this role to a user who has a proven track record in the Editor role.
+The Administrator role should be given to as few users as possible. Only give this role to a user who has a excellent track record in the Editor role.
 
 | Role | Rights | Damage a user with this role can cause |
 | :--- | :--- | :--- |
