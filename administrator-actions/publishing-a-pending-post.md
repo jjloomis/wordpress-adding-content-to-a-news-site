@@ -3,7 +3,7 @@
 1. In the Dashboard, go to **Posts**. Click **All Posts**. 
 2. Click the **Pending** tab \(top.\)
 3. Click the title of the post you'd like to review.
-4. In addition to reviewing the content of the post, review the items in the checklist below before clicking **Publish**.
+4. Review everything in the post checklist below. When the post is ready to go live, click **Publish**.
 
 ## Post checklist
 
