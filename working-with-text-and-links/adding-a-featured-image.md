@@ -1,4 +1,4 @@
-# Adding a Featured Image
+# Setting a Featured Image
 
 A featured image is the image that appears in the widgetized areas \(Top Stories, More News, etc.\) of the homepage.
 
