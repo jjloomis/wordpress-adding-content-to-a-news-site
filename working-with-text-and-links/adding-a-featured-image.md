@@ -1,6 +1,6 @@
 # Adding a Featured Image
 
-A featured image is the image that appears in one of the widgetized areas \(Top Stories, More News, etc.\) of the homepage.
+A featured image is the image that appears in the widgetized areas \(Top Stories, More News, etc.\) of the homepage.
 
 Note: A featured images must be a landscape-oriented image.
 
