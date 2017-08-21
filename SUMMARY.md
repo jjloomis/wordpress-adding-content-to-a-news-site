@@ -40,7 +40,7 @@
 
 ## Administrator Actions
 
-* [Adding a User and Working with Roles](administrator-actions/adding-users.md)
+* [Working with Roles and Adding Users](administrator-actions/adding-users.md)
 * [Publishing a Pending Post](administrator-actions/publishing-a-pending-post.md)
 
 ## Troubleshooting
