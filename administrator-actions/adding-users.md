@@ -1,6 +1,6 @@
 # Adding Users
 
-Before adding a user, you need to understand user roles. Assigning the wrong role to a user puts the entire site in jeopardy. A user with an Editor or Administrator role can potentially delete all of the content on a site in less than five minutes. 
+Before adding a user, you need to understand user roles. Assigning the wrong role to a user puts the entire site in jeopardy. For example, any user with an Editor or Administrator role could potentially delete all of the content on a site in less than five minutes.
 
 ## Roles
 
