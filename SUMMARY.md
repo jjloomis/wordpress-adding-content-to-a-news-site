@@ -45,3 +45,6 @@
 
 ## Troubleshooting
 
+* [Post has Weird Formatting or Spacing](troubleshooting/post-has-weird-formatting-or-spacing.md)
+* [Text and Images Don't Align with Eachother](troubleshooting/text-and-images-dont-align-with-eachother.md)
+
