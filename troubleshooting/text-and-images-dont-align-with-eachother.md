@@ -1,6 +1,4 @@
-# Text and Images don't Align with Eachother
-
-
+# Text and Images Don't Align with Eachother
 
 
 
