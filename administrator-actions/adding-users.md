@@ -2,7 +2,7 @@
 
 Before adding a user, you need to understand user roles. Assigning the wrong role to a user puts the entire site in jeopardy. For example, a user with an Editor or Administrator role could potentially delete all of a site's content in less than five minutes.
 
-## Roles
+## Working with Roles
 
 Always give a user the lowest level role they need. If you're unsure about what role a user should have, stick with Subscriber or Contributor. You can always give them a higher level role later.
 
@@ -17,6 +17,19 @@ Always give a user the lowest level role they need. If you're unsure about what 
 | Author | Can create and publish their own posts. | Media Milwaukee: Students are not given this role. UWM Post: Writers who have written three posts as a Contributor. |
 | Editor | Can create and publish posts. Can edit posts written by other users. Can approve posts written by Contributors. | Media Milwaukee: Students are not given this role. UWM Post: Editor role is given to actual UWM Post editors. |
 | Administrator | Can create, edit, publish posts written by anyone with access to site. Can create and delete users and change user passwords. Can add and delete plugins and change themes. | Media Milwaukee: Students are not given this role. UWM Post: Administrator role is only given to students who are running The UWM Post. |
+
+## Adding a User
+
+1. In the Dashboard, go to **Users** and select **Add New**.
+2. On the Add New User page, fill in the fields with with new user's appropriate information. Note: Use the student's UWM email address for both the username and email address.
+3. Make sure the Send User Notification checkbox is selected.
+4. Assign an appropriate user role \(see above.\)
+5. When finished, click **Add New User**. 
+6. Email the user letting them know they will need to perform a password reset in order to access their account. You can copy and paste from one of the two templates included below. 
+
+Hello. 
+
+`https://jjloomis.gitbooks.io/wordpress-adding-content-to-a-news-site/content/accessing-the-news-site/resetting-your-password.html ` 
 
 
 
