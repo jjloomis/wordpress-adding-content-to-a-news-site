@@ -25,11 +25,9 @@ Always give a user the lowest level role they need. If you're unsure about what 
 3. Make sure the Send User Notification checkbox is selected.
 4. Assign an appropriate user role \(see above.\)
 5. When finished, click **Add New User**. 
-6. Email the user letting them know they will need to perform a password reset in order to access their account. You can copy and paste from one of the two templates included below. 
+6. Instruct the user to perform a password reset (to create their own password.) **Note**: Users will need to use a strong password. 
 
-Hello. 
 
-`https://jjloomis.gitbooks.io/wordpress-adding-content-to-a-news-site/content/accessing-the-news-site/resetting-your-password.html ` 
 
 
 
