@@ -13,7 +13,7 @@
 * Content follows AP Style and/or course guidelines
 * Content organization follows Media Milwaukee/UWM Post style guides
 * Appropriate category \(News, Sports, Opinion, etc.\) is selected and set as primary category
-* Home page category \(Home - Whatever\) is selected \(do not set this as primary category\)
+* Home page category \(Home - Whatever\) is selected \(do not make this the primary category\)
 * Post includes Featured Image that meets size and aspect ratio requirements for home page category
 * SEO follows course guidelines
 
