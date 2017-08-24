@@ -16,12 +16,6 @@ The HTML may inlcude tags that match CSS selectors in your site's style.css file
 
 ## Fixing Weird Formatting and/or Spacing
 
-1. Make sure you have your post content saved in another location (class folder, thumb drive, etc.) If you don't have your post content saved in another location, do not proceed with these instructions. 
-2. In your post, switch to the Text editor. 
-3. Select everything in your post. 
-4. Press **Delete** (on keyboard) to delete the content of your post in the Text editor.  
-5. Copy of the content 
-
 These instructions will require you to add media (images, MP3s, etc.) to your post again. 
 
 1. In the Visual editor, select all of the content in your post. Note: You can click within the editor and press Command A (on keyboard) to everything in the editor.
