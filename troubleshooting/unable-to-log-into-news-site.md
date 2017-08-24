@@ -1,6 +1,6 @@
 # Unable to Log Into News Site
 
-If you are unable to login to the news site, you will need to [reset your password](/accessing-the-news-site/resetting-your-password.md).
+If you are unable to login to the news site, you'll need to [reset your password](/accessing-the-news-site/resetting-your-password.md).
 
 ## Common login problems
 
