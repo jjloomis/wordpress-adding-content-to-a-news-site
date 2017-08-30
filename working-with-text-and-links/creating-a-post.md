@@ -8,7 +8,7 @@ To add a story to a news site, you'll need to create a post and submit it for re
 4. Select a category. **Note**: Do not select a home page category \(Home - Whatever.\) Your instructor or editor will do this. 
 5. Edit your URL, if necessary. 
 6. To preview your post, click **Preview**. **Note**: This will open a new tab in your browser. Be sure to work with the original tab when making changes to your post.
-7. When finished, click **Submit for Review**. 
+7. When finished, click **Submit for Review** or **Publish**. 
 
 
 

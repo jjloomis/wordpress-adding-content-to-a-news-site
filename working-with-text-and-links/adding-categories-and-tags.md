@@ -11,13 +11,13 @@ Tags are like the index of a book. Tags are less frequently used taxonomies that
 **Note**: Media Milwaukee does not use tags to organize content. 
 
 1. In the Categories area (on right), select one category. Note: Do not select a homepage category (Home - Whatever.) Your instructor will do this. 
-2. When finished, click **Submit for Review**. 
+2. When finished, click **Submit for Review** or **Publish**. 
 
 ## UWM Post
 
 1. In the Categories area (on right), select one category. Note: Do not select a homepage category (Home - Whatever.) Your editor will do this. 
 2. In the Tags area (on right), enter tags for your post. Note: This step is optional.  
-3. When finished, click **Submit for Review**.
+3. When finished, click **Submit for Review** or **Publish**. 
  
 
 
