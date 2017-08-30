@@ -8,7 +8,6 @@ Note: A featured images must be a landscape-oriented image.
 2. Click **Set featured image**. 
 3. In the Featured Image box, use the Upload tab to navigate to and select an image on your computer. Or, use the Media Library tab to select an image that was previously added to the site.
 4. Click **Set featured image**.
-5. When finished, click **Submit for Review**.
-
+5. When finished, click **Submit for Review** or **Publish**. 
 
 
