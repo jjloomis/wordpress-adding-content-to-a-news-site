@@ -9,4 +9,4 @@ If necessary, export your Adobe Audition project as an MP3.
 3. In the Insert Media window, make sure the Upload Files tab is selected.
 4. On your computer, navigate to and select the MP3 you would like to add to the post. Click and drag the MP3 into the Insert Media window. The MP3 will appear selected in the Media Library.
 5. Click **Insert into post**.
-6. Click **Submit for Review**.  
+6. Click **Submit for Review** or **Publish**. 

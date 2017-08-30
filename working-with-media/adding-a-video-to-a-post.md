@@ -5,6 +5,7 @@
 3. In the Visual editor, position the mouse pointer where you would like the video to appear. Paste the URL into the Visual editor. WordPress will automatically convert the link to an embedded video.
 4. Switch to Text editor and find the video's URL. 
 5. Add the following shortcode to the end of the URL. The shortcode will make the video the full width of the column and stop related videos from playing.
+6. When finished, click **Submit for Review** or **Publish**. 
 
 ## Media Milwaukee
 
