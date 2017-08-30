@@ -12,6 +12,7 @@ Before uploading an image, give it a relevant name following [JAMS file and fold
 4. On your computer, navigate to and select the image you'd like to add your post. Click and drag the image into the Insert Media window. The image will appear selected in the Media Library.
 5. In the lower-right, go to Attachment Display Settings and choose an image size.  
 6. If your image is not a full column-width image, you will need to [wrap your text around the image](/working-with-media/wrapping-text-around-an-image.md).
+7. When finished, click **Submit for Review** or **Publish**. 
 
 
 
