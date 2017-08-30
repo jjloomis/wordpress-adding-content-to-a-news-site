@@ -4,7 +4,7 @@
 2. In the image toolbar, click the **Edit** \(pencil\) icon. 
 3. In the Image Details window, edit the Caption and Alternative Text areas.
 4. Click **Update**.
-5. When finished, click **Submit for Review**.
+5. When finished, click **Submit for Review** or **Publish**. 
 
 
 
