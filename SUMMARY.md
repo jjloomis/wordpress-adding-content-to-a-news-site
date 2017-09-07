@@ -30,13 +30,13 @@
 * [Removing an Image from a Post](working-with-media/deleting-an-image.md)
 * [Setting a Featured Image ](working-with-text-and-links/adding-a-featured-image.md)
 * [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
-* [Deleting an MP3](working-with-media/deleting-an-mp3.md)
+* [Removing an MP3 from a Post](working-with-media/deleting-an-mp3.md)
 * [Adding a Video to a Post](working-with-media/adding-a-video-to-a-post.md)
-* [Deleting a Video](working-with-media/deleting-a-video.md)
+* [Removing a Video from a Post](working-with-media/deleting-a-video.md)
 * [Adding a PDF to a Post](working-with-media/adding-a-pdf-to-a-post.md)
-* [Deleting a PDF](working-with-media/deleting-a-pdf.md)
-* [Adding a Horizontal Line](working-with-media/adding-a-horizontal-line.md)
-* [Deleting a Horizontal Line](working-with-media/deleting-a-horizontal-line.md)
+* [Removing a PDF from a Post](working-with-media/deleting-a-pdf.md)
+* [Adding a Horizontal Line to a Post](working-with-media/adding-a-horizontal-line.md)
+* [Removing a Horizontal Line from a Post](working-with-media/deleting-a-horizontal-line.md)
 
 ## Administrator Actions
 
