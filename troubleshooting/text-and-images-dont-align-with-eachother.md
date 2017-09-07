@@ -1,4 +1,4 @@
-# Text and Images Are Completely Misaligned
+# Text and Images Are Totally Misaligned
 
 If your text and images are not lining up correctly, you may have added your images while you were still working with your text. (The best approach is to add all your text first and then add your images.)
 

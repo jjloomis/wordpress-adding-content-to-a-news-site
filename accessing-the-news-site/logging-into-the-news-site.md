@@ -1,6 +1,6 @@
 # Logging into the Site
 
-To log into a self-hosted WordPress site \(like Media Milwaukee or The UWM Post\), go to the site's home page and add `/wp-admin` to the end of the URL. 
+To log into a self-hosted WordPress site \(like Media Milwaukee or The UWM Post\), go to the site's home page and add `/wp-admin/` to the end of the URL. 
 
 ## Media Milwaukee
 
