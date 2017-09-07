@@ -27,7 +27,7 @@
 * [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
 * [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
 * [Adding a Caption and Alt Text to an Image](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
-* [Deleting an Image](working-with-media/deleting-an-image.md)
+* [Removing an Image from a Post](working-with-media/deleting-an-image.md)
 * [Setting a Featured Image ](working-with-text-and-links/adding-a-featured-image.md)
 * [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
 * [Deleting an MP3](working-with-media/deleting-an-mp3.md)
