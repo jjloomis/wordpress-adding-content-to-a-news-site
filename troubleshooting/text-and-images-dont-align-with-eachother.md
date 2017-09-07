@@ -1,6 +1,6 @@
-# Text and Images Don't Align with Eachother
+# Text and Images Are Completely Misaligned
 
-If you're running into problems with text and images not lining up correctly, you may have added the images while you were still working with the text. (The best approach is to add all your text first and then add your images.)
+If your text and images are not lining up correctly, you may have added your images while you were still working with your text. (The best approach is to add all your text first and then add your images.)
 
 These instructions will require you to add media \(images, MP3s, etc.\) to your post again.
 
