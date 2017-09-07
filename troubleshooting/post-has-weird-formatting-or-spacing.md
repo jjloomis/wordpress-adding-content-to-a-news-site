@@ -10,7 +10,7 @@ The problematic HTML will look something like this:
 <div class="styled-paragraph">Here is some example text within a div. The div came along for the ride when this text was copied from a Google Doc, D2L, or a website.</div>
 ```
 
-HTML often comes along for the ride when you copy text from a source that appears in a browser. This includes Google Docs, D2L, and almost every website on the internet.
+HTML often comes along for the ride when you copy text from a source that appears in a browser. This includes Google Docs, D2L--basically, just about every website on the internet.
 
 The HTML may inlcude tags that match CSS selectors in your site's style.css file \(the file that controls the look of your site.\) This is what causes the weird formatting and/or spacing in your post.
 
