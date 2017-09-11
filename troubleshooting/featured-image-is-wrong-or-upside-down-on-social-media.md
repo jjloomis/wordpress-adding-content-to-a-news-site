@@ -5,13 +5,12 @@
 1. In your post, scroll down to the Yoast SEO area. 
 2. In the Yoast SEO area, click the **Social** button (on left.)
 3. Scroll to the Facebook Image area. Click the **Upload Image** button. 
-4. Select the correct image from the Media Library or upload a new image. Click Use Image.
-5. Click Publish.
-6. Click View Post to view the post in your browser. Copy the URL of the post.
-7. Go to the Facebook Debugger page. 
+4. Select the correct image from the Media Library or upload a new image. Click **Use Image**.
+5. Click **Publish**.
+6. Click **View Post** to view the post in your browser. Copy the URL of the post.
+7. Go to the [Facebook Debugger page](https://developers.facebook.com/tools/debug/sharing/). 
 8. Paste the post's URL in the Sharing Debugger field. Click **Debug**. The cached version of the incorrect image will be removed from Facebook.
 9. Share the Media Milwaukee or UWM Post story on Facebook the way you normally would. The correct social media image should now accompany the story. 
-
 
 ## Image is upside down or sideways
 
