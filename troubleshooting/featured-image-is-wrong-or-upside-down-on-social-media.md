@@ -19,7 +19,18 @@ If the image is upside down or sideways on social media, it was probably uploade
 **Note**: You may run into this problem even if it
 looks like the image is properly rotated on your computer. Occasionally, different platforms (your phone, WordPress, your computer's operating system, etc.) will disagree on what constitutes "the bottom" of an image. 
 
-1. On your computer, use Adobe Photoshop to open, rotate, and save your original image to your computer. 
+1. On your computer, use [Adobe Photoshop](https://jjloomis.gitbooks.io/adobe-photoshop-basics/content/) (or your computer's default photo editing program) to open, rotate, and save a new version of your original image to your computer. **Note**: Even if your image appears properly rotated when you open it this way, use the program to save a new version of the image.
+2. In your post, scroll down to the Yoast SEO area. 
+3. In the Yoast SEO area, click the **Social** button (on left.)
+4. Scroll to the Facebook Image area. Click the **Upload Image** button. 
+5. Select the correct image from the Media Library or upload a new image. Click **Use Image**.
+6. Click **Publish**.
+7. Click **View Post** to view the post in your browser. Copy the URL of the post.
+8. Go to the [Facebook Debugger page](https://developers.facebook.com/tools/debug/sharing/). 
+9. Paste the post's URL in the Sharing Debugger field. Click **Debug**. The cached version of the incorrect image will be removed from Facebook.
+10. Share the Media Milwaukee or UWM Post story on Facebook the way you normally would. The correct social media image should now accompany the story. 
+
+
 
 
 
