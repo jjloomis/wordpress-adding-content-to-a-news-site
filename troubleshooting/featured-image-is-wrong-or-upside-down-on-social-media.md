@@ -19,3 +19,7 @@ If the image is upside down or sideways on social media, it was probably uploade
 **Note**: You may run into this problem even if it
 looks like the image is properly rotated on your computer. Occasionally, different platforms (your phone, WordPress, your computer's operating system, etc.) will disagree on what constitutes "the bottom" of an image. 
 
+1. On your computer, use Adobe Photoshop to open, rotate, and save your original image to your computer. 
+
+
+
