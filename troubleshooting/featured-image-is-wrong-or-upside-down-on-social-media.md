@@ -28,9 +28,6 @@ looks like the image is properly rotated on your computer. Occasionally, differe
 7. Click **View Post** to view the post in your browser. Copy the URL of the post.
 8. Go to the [Facebook Debugger page](https://developers.facebook.com/tools/debug/sharing/). 
 9. Paste the post's URL in the Sharing Debugger field. Click **Debug**. The cached version of the incorrect image will be removed from Facebook.
-10. Share the Media Milwaukee or UWM Post story on Facebook the way you normally would. The correct social media image should now accompany the story. 
-
-
-
+10. Share the Media Milwaukee or UWM Post story on Facebook the way you normally would. The correct social media image should now accompany the story.
 
 
