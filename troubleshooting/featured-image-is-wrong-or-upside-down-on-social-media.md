@@ -23,7 +23,7 @@ looks like the image is properly rotated on your computer. Occasionally, differe
 2. In your post, scroll down to the Yoast SEO area. 
 3. In the Yoast SEO area, click the **Social** button (on left.)
 4. Scroll to the Facebook Image area. Click the **Upload Image** button. 
-5. Select the correct image from the Media Library or upload a new image. Click **Use Image**.
+5. Upload the new version of the image to the Media Library. Click **Use Image**.
 6. Click **Publish**.
 7. Click **View Post** to view the post in your browser. Copy the URL of the post.
 8. Go to the [Facebook Debugger page](https://developers.facebook.com/tools/debug/sharing/). 
