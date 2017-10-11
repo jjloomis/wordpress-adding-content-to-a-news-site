@@ -23,6 +23,7 @@
 
 ## Working with Media
 
+* [Working with a Style Guide](working-with-media/working-with-a-style-guide.md)
 * [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
 * [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
 * [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
@@ -37,7 +38,6 @@
 * [Removing a PDF from a Post](working-with-media/deleting-a-pdf.md)
 * [Adding a Horizontal Line to a Post](working-with-media/adding-a-horizontal-line.md)
 * [Removing a Horizontal Line from a Post](working-with-media/deleting-a-horizontal-line.md)
-* [Working with a Style Guide](working-with-media/working-with-a-style-guide.md)
 
 ## Administrator Actions
 
