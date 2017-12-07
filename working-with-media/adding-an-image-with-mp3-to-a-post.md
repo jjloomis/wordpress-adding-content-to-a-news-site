@@ -1,5 +1,8 @@
-# Adding an Image with an MP3 to a Post
+# Adding an Image with MP3 to a Post
 
-1. 
+## Media Milwaukee
+
+1. Go the Media Milwaukee Style Guide and find [Image with MP3](http://mediamilwaukee.com/style-guide#imagewithmp3).
+
 
 
