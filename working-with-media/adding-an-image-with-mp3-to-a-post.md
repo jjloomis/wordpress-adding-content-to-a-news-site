@@ -1,6 +1,6 @@
 # Adding an Image with MP3 to a Post
 
-Note: An Image with MP3 post needs an image that is at least 700 pixels wide. A [4:3 or 16:9 landscape-oriented image](http://mediamilwaukee.com/style-guide) is preferred.
+**Note**: An Image with MP3 post needs an image that is at least 700 pixels wide. A [4:3 or 16:9 landscape-oriented image](http://mediamilwaukee.com/style-guide) is preferred.
 
 ## Media Milwaukee
 
