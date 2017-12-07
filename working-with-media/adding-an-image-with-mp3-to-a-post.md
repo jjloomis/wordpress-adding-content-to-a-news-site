@@ -15,8 +15,8 @@ Note: An Image with MP3 post needs an image that is at least 700 pixels wide. A 
    * [Add a caption to the image](/working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
    * [Change the size of the image](/working-with-media/changing-the-size-of-an-image.md) to **Full column width**
    * When finished, click **Update**
-9. Make sure you're seeing the full Visual Editor toolbar \(you should see two rows of tools at the top the Editor.\) If necessary, press **Control** **Option** **Z** \(on keyboard\) to toggle the full Visual Editor toolbar on.
-10. Place the mouse cursor at the start of the body text \(on the same line as the body text.\) Click the **Horizontal line** button \(in Visual Editor toolbar.\) A horizontal line will appear between the image caption and the body text. 
+9. Make sure you're seeing the full Visual Editor toolbar \(you should see two rows of tools at the top the Editor.\) If necessary, press **Control** **Option** **Z** \(on keyboard\) to turn on the full Visual Editor toolbar.
+10. Place the mouse cursor at the start of the body text \(on the same line as the body text.\) Click the **Horizontal line** button \(in second row of Visual Editor toolbar.\) A horizontal line will appear between the image caption and the body text. 
 11. When finished, click **Publish** or **Update**. 
 
 
