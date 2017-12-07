@@ -10,7 +10,7 @@ Note: An Image with MP3 post needs an image that is at least 700 pixels wide. A 
 4. Place the mouse cursor in the upper-left corner of the Editor \(before the body text.\) Press **Return** \(on keyboard\) to create a hard return before the body text. 
 5. Place the mouse cursor in the upper-left corner of the Editor \(in empty space where body text was in step 4.\) 
 6. [Add the image to the post](/working-with-media/adding-an-image-to-a-post.md).
-7. Click the image to activate the **Edit Image** toolbar \(appears above image.\) In the **Edit Image** toolbar, click the **Pencil** icon.
+7. Click the image to activate the **Edit Image** toolbar \(above image.\) In the **Edit Image** toolbar, click the **Pencil** icon.
 8. In the **Image Details** window:
    * [Add a caption to the image](/working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
    * [Change the size of the image](/working-with-media/changing-the-size-of-an-image.md) to **Full column width**
