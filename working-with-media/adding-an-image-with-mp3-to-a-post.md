@@ -1,6 +1,6 @@
 # Adding an Image with MP3 to a Post
 
-**Note**: An Image with MP3 post needs an image that is at least 700 pixels wide. A [4:3 or 16:9 landscape-oriented image](http://mediamilwaukee.com/style-guide) is preferred.
+**Note**: An image with MP3 needs an image that is at least 700 pixels wide. A [4:3 or 16:9 landscape-oriented image](http://mediamilwaukee.com/style-guide) is recommended.
 
 ## Media Milwaukee
 
@@ -14,9 +14,11 @@
 5. Press **Return** \(on keyboard\) twice to go a new line \(after the image caption.\)   
 6. Make sure you're working with the full Visual editor toolbar \(you should see two rows of tools at the top the editor.\) If necessary, press **Control** **Option** **Z** \(on keyboard\) to turn on the full Visual editor toolbar.
 7. Click the **Horizontal line** button \(in second row of Visual editor toolbar.\) A horizontal line will appear after the image caption.
-8. [Add the body text to the post](/working-with-text-and-links/working-with-content-in-the-visual-editor.md). Press **Return** \(on keyboard\) to go to a new line after the body text.
-9. [Add the MP3 to the post](/working-with-media/adding-an-mp3-to-a-post.md). Press **Return** \(on keyboard\) to create a space above the author box \(visible when the post is live.\)
-10. When finished, click **Submit for Review** or **Publish**.
+8. [Add the body text to the post](/working-with-text-and-links/working-with-content-in-the-visual-editor.md). 
+9. Press **Return** \(on keyboard\) to go to a new line after the body text.
+10. [Add the MP3 to the post](/working-with-media/adding-an-mp3-to-a-post.md). 
+11. Press **Return** \(on keyboard\) to create a space after the MP3 player \(visible when the post is live.\)
+12. When finished, click **Submit for Review** or **Publish**.
 
 
 
