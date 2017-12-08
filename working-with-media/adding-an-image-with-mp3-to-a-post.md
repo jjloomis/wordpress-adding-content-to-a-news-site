@@ -5,7 +5,7 @@
 ## Media Milwaukee
 
 1. Click [this link](http://mediamilwaukee.com/style-guide#imagewithmp3) to go directly to the **Image with MP3** section of the Media Milwaukee Style Guide. Use this as a visual reference when adding an image with MP3 to your post.
-2. [Add an image to the post](/working-with-media/adding-an-image-to-a-post.md). \(If you're [creating a new post](/working-with-text-and-links/creating-a-post.md), the image should be the first item in the editor.\) 
+2. [Add an image to the post](/working-with-media/adding-an-image-to-a-post.md).
 3. Click the image to activate the** Image** toolbar \(above image.\) In the** Image** toolbar, click the **Pencil** icon.
 4. In the **Image Details** window:
    * [Add a caption to the image](/working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
