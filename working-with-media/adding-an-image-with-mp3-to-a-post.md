@@ -14,10 +14,10 @@
 5. Press **Return** \(on keyboard\) twice to go a new line \(after the image caption.\)   
 6. Make sure you're working with the full Visual editor toolbar \(you should see two rows of tools at the top the editor.\) If necessary, press **Control** **Option** **Z** \(on keyboard\) to turn on the full Visual editor toolbar.
 7. Click the **Horizontal line** button \(in second row of Visual editor toolbar.\) A horizontal line will appear after the image caption.
-8. [Add the body text to the post](/working-with-text-and-links/working-with-content-in-the-visual-editor.md). 
-9. Press **Return** \(on keyboard\) to go to a new line after the body text.
+8. [Add the text that introduces to the MP3](/working-with-text-and-links/working-with-content-in-the-visual-editor.md). 
+9. Press **Return** \(on keyboard\) to go to a new line after the introductory text.
 10. [Add the MP3 to the post](/working-with-media/adding-an-mp3-to-a-post.md). 
-11. Press **Return** \(on keyboard\) to create a space after the MP3 player \(visible when the post is live.\)
+11. Press **Return** \(on keyboard\) to create a space after the MP3 player.
 12. When finished, click **Submit for Review** or **Publish**.
 
 
