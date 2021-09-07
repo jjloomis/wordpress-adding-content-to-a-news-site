@@ -10,5 +10,3 @@ To format text in the Visual editor, select the text and use the formatting tool
 4. If necessary, highlight text in the Visual editor and apply formatting using the formatting toolbar.
 5. When finished, click **Submit for Review** or **Publish**. 
 
-
-

@@ -1,4 +1,4 @@
-# WordPress: Adding Content to a News Site
+# Introduction
 
 ## About
 

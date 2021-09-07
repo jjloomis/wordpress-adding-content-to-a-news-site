@@ -1,6 +1,6 @@
 # Working with Content in the Text Editor
 
-The Text editor is text-only editor similar to [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/ "Atom text editor").
+The Text editor is text-only editor similar to [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/).
 
 Use the Text editor when adding code to a post.
 

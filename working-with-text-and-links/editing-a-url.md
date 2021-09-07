@@ -7,5 +7,3 @@ You can make changes to the end of a post's URL \(aka "slug"\) if necessary.
 3. When finished, click **OK**. 
 4. Click **Submit for Review** or **Publish**. 
 
-
-

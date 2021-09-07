@@ -1,6 +1,6 @@
 # Resetting Your Password
 
-1. Go to the [news site login screen](/accessing-the-news-site/logging-into-the-news-site.md).
+1. Go to the [news site login screen](logging-into-the-news-site.md).
 2. Click the **Lost your password?** link.
 3. Enter your UWM email address and click **Get New Password**.
 4. Go to your UWM email account and check your **Inbox** for a new email from WordPress. \(**Important**: You may need to check your **Junk** and **Clutter** folders for the password reset email.\)
@@ -10,8 +10,6 @@
 
 ## Common login problems
 
-* Attempting to log into WordPress.com instead of [news site login screen](/accessing-the-news-site/logging-into-the-news-site.md)
-* Attempting to to log into WordPress.org instead of [news site login screen](/accessing-the-news-site/logging-into-the-news-site.md)
-
-
+* Attempting to log into WordPress.com instead of [news site login screen](logging-into-the-news-site.md)
+* Attempting to to log into WordPress.org instead of [news site login screen](logging-into-the-news-site.md)
 

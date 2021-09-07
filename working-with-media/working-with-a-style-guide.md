@@ -4,5 +4,3 @@ A style guide helps you organize your post content in a manner consistent with t
 
 * [Media Milwaukee Style Guide](http://mediamilwaukee.com/style-guide)
 
-
-

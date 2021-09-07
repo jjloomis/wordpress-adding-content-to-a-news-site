@@ -9,33 +9,19 @@
 
 ## Media Milwaukee
 
-
-
-```
+```text
 &w=700&rel=0
 ```
 
-
-
 ## UWM Post
 
-
-
-```
+```text
 &w=697&rel=0
 ```
 
-
-
 ## Example YouTube URL with added shortcode
 
-
-
-```
+```text
 https://www.youtube.com/watch?v=u8vq1QZ8q6g&w=700&rel=0
 ```
-
-
-
-
 

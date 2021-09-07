@@ -1,6 +1,6 @@
-# Text and Images Are Totally Misaligned
+# Text and Images are Totally Misaligned
 
-If your text and images are not lining up correctly, you may have added your images while you were still working with your text. (The best approach is to add all your text first and then add your images.)
+If your text and images are not lining up correctly, you may have added your images while you were still working with your text. \(The best approach is to add all your text first and then add your images.\)
 
 These instructions will require you to add media \(images, MP3s, etc.\) to your post again.
 
@@ -12,8 +12,4 @@ These instructions will require you to add media \(images, MP3s, etc.\) to your 
 6. Paste your copied text back into the Visual editor.
 7. Add your media back into your post.
 8. When finished, click **Submit for Review** or **Publish**.
-
-
-
-
 
